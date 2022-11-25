@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## To publish
 https://www.npmjs.com/package/angular-cli-ghpages
+Just push updates and ng deploy --base-href=/portfolio/
